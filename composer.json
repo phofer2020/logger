@@ -1,0 +1,19 @@
+{
+    "name": "phofer2020/logger",
+    "description": "a library to log data",
+    "type": "library",
+    "license": "MIT#",
+    "autoload": {
+        "psr-4": {
+            "Phofer2020\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phofer2020",
+            "email": "phofer@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
